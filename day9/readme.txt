@@ -674,7 +674,8 @@ Now, the tail (9) visits 36 positions (including s) at least once:
 .........########.........
 Simulate your complete series of motions on a larger rope with ten knots. How many positions does the tail of the rope visit at least once?
 
-Answer: 2074
+Answer: 
+2273
  
 
 Although it hasn't changed, you can still get your puzzle input.
